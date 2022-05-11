@@ -1,0 +1,16 @@
+numpy
+pandas
+scikit-learn
+jupyter
+plotly
+rdkit-pypi
+wandb
+class-resolver
+pytorch-lightning
+
+jupyter
+ipykernel
+black
+mypy
+pytest
+flake8
