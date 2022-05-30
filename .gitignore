@@ -3,3 +3,4 @@ wandb/
 data/
 models/
 .ipynb_checkpoints
+catboost_info/

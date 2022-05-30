@@ -7,6 +7,9 @@ rdkit-pypi
 wandb
 class-resolver
 pytorch-lightning
+catboost
+torchmetrics
+ogb
 
 jupyter
 ipykernel
